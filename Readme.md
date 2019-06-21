@@ -5,6 +5,9 @@
 * [MainPage.xaml.cs](./CS/SilverlightApplication1/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication1/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to sequentially animate texts in a Digital Gauge control
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3851)**
+<!-- run online end -->
 
 
 <p>The following sample demonstrates how to use creeping line and blinking animation effects to imitate the work of the advertising indicator board.</p><br />
